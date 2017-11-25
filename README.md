@@ -4,7 +4,7 @@ List of 3rd party plugins for sitespeed.io. You will need sitespeed.io >= 6.0 fo
 Send a PR with your plugin and we will add it to the list!
 
 * [GPSI](https://github.com/sitespeedio/plugin-gpsi) - Google PageSpeed Insights
-* [Lighthouse](https://github.com/siteriaitaliana/plugin-lighthouse) - Google Lighthouse plugin by [Lorenzo Urbini] (https://github.com/siteriaitaliana) - Work in progress
+* [Lighthouse](https://github.com/siteriaitaliana/plugin-lighthouse) - Google Lighthouse plugin by [Lorenzo Urbini](https://github.com/siteriaitaliana) - Work in progress
 
 ## Documentation
 https://www.sitespeed.io/documentation/sitespeed.io/plugins/
